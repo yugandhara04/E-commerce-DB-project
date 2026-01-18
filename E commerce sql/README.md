@@ -36,6 +36,8 @@ The database contains customer, product, order, payment and order item data.
 
 - Inner join is used to join two table hving common columns , i used inner join to check quantity of each products sold joining orders and product table .
 
+-I used two queries for finding best customer for spending more money one uses order total directly which is simpler and faster and another one uses item level data which is more accurate for validation.
 
 
 I created this project for learning and portfolio purpose.
+
